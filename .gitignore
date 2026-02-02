@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Word temporary files
+~$*.docx
+~*.tmp
+*.tmp
+
+# Intermediate paper versions (keep only final)
+Paper.docx
+Paper_Updated.docx
+Paper_Complete.docx
+Paper_Final.docx
+Paper_With_Figures.docx
+NBA_Franchise_Valuation_Paper.docx
+Paper_Addendum.md
+
+# Reference materials
+model_pictures/
+
+# Auxiliary scripts (optional - uncomment if you want to exclude)
+# create_*.py
+# update_*.py
+# append_*.py
+# read_paper.py
+# safe_read_paper.py
+# generate_paper_update.py
